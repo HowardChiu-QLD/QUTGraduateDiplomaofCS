@@ -1,0 +1,14 @@
+C:\Users\raytz\Desktop\QueenslandCompetitionApp\QueenslandCompetitionApp\bin\Debug\netcoreapp3.1\QueenslandCompetitionApp.exe
+C:\Users\raytz\Desktop\QueenslandCompetitionApp\QueenslandCompetitionApp\bin\Debug\netcoreapp3.1\QueenslandCompetitionApp.deps.json
+C:\Users\raytz\Desktop\QueenslandCompetitionApp\QueenslandCompetitionApp\bin\Debug\netcoreapp3.1\QueenslandCompetitionApp.runtimeconfig.json
+C:\Users\raytz\Desktop\QueenslandCompetitionApp\QueenslandCompetitionApp\bin\Debug\netcoreapp3.1\QueenslandCompetitionApp.runtimeconfig.dev.json
+C:\Users\raytz\Desktop\QueenslandCompetitionApp\QueenslandCompetitionApp\bin\Debug\netcoreapp3.1\QueenslandCompetitionApp.dll
+C:\Users\raytz\Desktop\QueenslandCompetitionApp\QueenslandCompetitionApp\bin\Debug\netcoreapp3.1\QueenslandCompetitionApp.pdb
+C:\Users\raytz\Desktop\QueenslandCompetitionApp\QueenslandCompetitionApp\obj\Debug\netcoreapp3.1\QueenslandCompetitionApp.csproj.AssemblyReference.cache
+C:\Users\raytz\Desktop\QueenslandCompetitionApp\QueenslandCompetitionApp\obj\Debug\netcoreapp3.1\QueenslandCompetitionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raytz\Desktop\QueenslandCompetitionApp\QueenslandCompetitionApp\obj\Debug\netcoreapp3.1\QueenslandCompetitionApp.AssemblyInfoInputs.cache
+C:\Users\raytz\Desktop\QueenslandCompetitionApp\QueenslandCompetitionApp\obj\Debug\netcoreapp3.1\QueenslandCompetitionApp.AssemblyInfo.cs
+C:\Users\raytz\Desktop\QueenslandCompetitionApp\QueenslandCompetitionApp\obj\Debug\netcoreapp3.1\QueenslandCompetitionApp.csproj.CoreCompileInputs.cache
+C:\Users\raytz\Desktop\QueenslandCompetitionApp\QueenslandCompetitionApp\obj\Debug\netcoreapp3.1\QueenslandCompetitionApp.dll
+C:\Users\raytz\Desktop\QueenslandCompetitionApp\QueenslandCompetitionApp\obj\Debug\netcoreapp3.1\QueenslandCompetitionApp.pdb
+C:\Users\raytz\Desktop\QueenslandCompetitionApp\QueenslandCompetitionApp\obj\Debug\netcoreapp3.1\QueenslandCompetitionApp.genruntimeconfig.cache
